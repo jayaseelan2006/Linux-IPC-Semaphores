@@ -19,21 +19,11 @@ Write the C Program using Linux Process API - Sempahores
 Execute the C Program for the desired output. 
 
 # PROGRAM:
-
 ## Write a C program that implements a producer-consumer system with two processes using Semaphores.
 
-
-
-
 ## OUTPUT
-$ ./sem.o 
 
-
-$ ipcs
-
-
-
-
+<img width="353" alt="ex05" src="https://github.com/jayaseelan2006/Linux-IPC-Semaphores/assets/151389443/5142ffac-4029-4656-98af-be22b248b5ed">
 
 # RESULT:
 The program is executed successfully.
